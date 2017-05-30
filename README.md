@@ -1,2 +1,2 @@
 # RockAssessment
-A GUI for annotating planetary rock
+A GUI for annotating planetary rock attributes
